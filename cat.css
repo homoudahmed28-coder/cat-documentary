@@ -26,8 +26,6 @@ a {
     margin: 20px auto;
 background: #000000;
 background: repeating-radial-gradient(circle farthest-corner at center center, #000000 0%, #ff2b2b 20%);
-background: -webkit-repeating-radial-gradient(circle farthest-corner at center center, #000000 0%, #ff2b2b 20%);
-background: -moz-repeating-radial-gradient(circle farthest-corner at center center, #000000 0%, #ff2b2b 20%);
     padding: 30px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
